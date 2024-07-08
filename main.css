@@ -1,0 +1,1 @@
+body{color:#999}.container{border:1px solid #000;border-radius:10px;display:grid;grid-template-rows:1fr;padding:20px;text-align:justify;transition:all 1s ease;width:450px}.container.collapse{border:none;grid-template-rows:0fr;padding:0}.text{overflow:hidden}
